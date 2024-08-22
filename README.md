@@ -6,6 +6,9 @@ This project involves an in-depth exploratory data analysis of COVID-19 datasets
 Data Extraction: Utilized SQL queries to retrieve and aggregate COVID-19 data from various sources.
 Trend Analysis: Analyzed daily case counts, mortality rates, and vaccination progress.
 Visualizations: Generated insights through SQL-based data visualizations to highlight significant trends.
+
+
+
 2. Election 2024 Analysis with Python
 This project provides a comprehensive analysis of the 2024 election data using Python. The focus is on examining election trends, candidate performance, and voter behavior. Key features of the analysis include:
 
